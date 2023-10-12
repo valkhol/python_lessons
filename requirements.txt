@@ -1,0 +1,13 @@
+requests-oauthlib==1.2.0
+mysql-connector-python~=8.0.21
+
+requests
+pandas
+beautifulsoup4==4.9.3
+redis==2.10.6
+numpy
+
+aiohttp
+async_timeout
+
+locust
